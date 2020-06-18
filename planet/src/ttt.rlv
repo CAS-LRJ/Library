@@ -1,0 +1,14 @@
+Input inX0
+Input inX1
+Input inX2
+ReLU relu1 1.0 -0.5 inX0 -0.5 inX1
+MaxPool maxi inX2 relu1
+Linear lina 0.2 0.3 relu1 0.4 maxi
+Assert <= 0.0 1.0 inX0
+Assert >= 1.0 1.0 inX0
+Assert <= 0.0 1.0 inX1
+Assert >= 1.0 1.0 inX1
+Assert <= 0.0 1.0 inX2
+Assert >= 1.0 1.0 inX2
+Assert >= 0.6 1.0 lina 0.1 inX0
+Assert <= 0.4 1.0 lina 0.1 inX0

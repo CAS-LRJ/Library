@@ -1,0 +1,16 @@
+./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.10001_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, SAT, 2409, 00:00:02
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.10001_runnerUp_1, Type: AITOPO, AItime 00:00:00,, SAT, 1767, 00:00:01
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.10001_runnerUp_1, Type: AIOFF, AItime 00:00:00,, SAT, 2916, 00:00:02
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.07501_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, SAT, 6961, 00:00:06
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.07501_runnerUp_1, Type: AITOPO, AItime 00:00:00,, SAT, 4372, 00:00:04
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.07501_runnerUp_1, Type: AIOFF, AItime 00:00:00,, SAT, 5178, 00:00:05
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.05001_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, UNSAT, 45620, 00:00:45
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.05001_runnerUp_1, Type: AITOPO, AItime 00:00:00,, UNSAT, 139073, 00:02:19
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.05001_runnerUp_1, Type: AIOFF, AItime 00:00:00,, SAT, 1270140, 00:21:10
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.02501_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, UNSAT, 6374, 00:00:06
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.02501_runnerUp_1, Type: AITOPO, AItime 00:00:00,, UNSAT, 6494, 00:00:06
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.02501_runnerUp_1, Type: AIOFF, AItime 00:00:00,, UNSAT, 114181, 00:01:54
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.01001_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, UNSAT, 0, 00:00:00
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.01001_runnerUp_1, Type: AITOPO, AItime 00:00:00,, UNSAT, 5690, 00:00:05
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.01001_runnerUp_1, Type: AIOFF, AItime 00:00:00,, UNSAT, 1571, 00:00:01
+ 

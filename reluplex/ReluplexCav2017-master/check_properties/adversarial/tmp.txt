@@ -1,0 +1,68 @@
+In file included from ../../../abs/absEle.h:29:0,
+                 from main.cpp:20:
+../../../abs/abst.h:102:8: warning: unused parameter ‘a’ [-Wunused-parameter]
+   void add_var(var a){
+        ^
+../../../abs/abst.h:105:12: warning: unused parameter ‘a’ [-Wunused-parameter]
+   interval get_bound(var a){
+            ^
+../../../abs/abst.h:108:8: warning: unused parameter ‘a’ [-Wunused-parameter]
+   void rem_var(var a){
+        ^
+../../../abs/abst.h:111:8: warning: unused parameter ‘a’ [-Wunused-parameter]
+   void join(Abst* a){
+        ^
+../../../abs/abst.h:114:8: warning: unused parameter ‘a’ [-Wunused-parameter]
+   void meet(Abst* a){
+        ^
+../../../abs/abst.h:117:8: warning: unused parameter ‘oldV’ [-Wunused-parameter]
+   void rename(var oldV, var newV){
+        ^
+../../../abs/abst.h:117:8: warning: unused parameter ‘newV’ [-Wunused-parameter]
+../../../abs/abst.h:120:8: warning: unused parameter ‘a’ [-Wunused-parameter]
+   void meet_tcons(tcons1 a){
+        ^
+../../../abs/abst.h:124:8: warning: unused parameter ‘a’ [-Wunused-parameter]
+   void meet_lcons(lincons1 a){
+        ^
+../../../abs/abst.h:130:8: warning: unused parameter ‘dst’ [-Wunused-parameter]
+   void assign(var dst, linexpr1 aexpr){
+        ^
+../../../abs/abst.h:130:8: warning: unused parameter ‘aexpr’ [-Wunused-parameter]
+../../../abs/abst.h:142:24: warning: unused parameter ‘os’ [-Wunused-parameter]
+   friend std::ostream& operator<< (std::ostream& os, const Abst& a){
+                        ^
+../../../abs/abst.h:142:24: warning: unused parameter ‘a’ [-Wunused-parameter]
+In file included from main.cpp:20:0:
+../../../abs/absEle.h:47:3: warning: unused parameter ‘name’ [-Wunused-parameter]
+   AbsEle(int ndim, std::vector<std::string> name, Domain dom, int num, double** coffs, LogicOP *lop, double **consts){
+   ^
+../../../abs/absEle.h:168:24: warning: unused parameter ‘os’ [-Wunused-parameter]
+   friend std::ostream& operator<< (std::ostream& os, const AbsEle& a){
+                        ^
+In file included from ../../../abs/dnn.h:23:0,
+                 from ../../../abs/absEngine.h:17,
+                 from main.cpp:21:
+../../../abs/layer.h:27:16: warning: unused parameter ‘layer’ [-Wunused-parameter]
+   void virtual trans(unsigned layer, AbsEle *ele){
+                ^
+../../../abs/layer.h:27:16: warning: unused parameter ‘ele’ [-Wunused-parameter]
+../../../abs/layer.h:29:8: warning: unused parameter ‘layer’ [-Wunused-parameter]
+   void set(int layer, int idim, int odim, double **weights, double **bias){
+        ^
+../../../abs/layer.h:29:8: warning: unused parameter ‘idim’ [-Wunused-parameter]
+../../../abs/layer.h:29:8: warning: unused parameter ‘odim’ [-Wunused-parameter]
+../../../abs/layer.h:29:8: warning: unused parameter ‘weights’ [-Wunused-parameter]
+../../../abs/layer.h:29:8: warning: unused parameter ‘bias’ [-Wunused-parameter]
+main.cpp: In function ‘bool advMain(int, char**, unsigned int, double, unsigned int, String)’:
+main.cpp:204:11: warning: unused variable ‘mins’ [-Wunused-variable]
+   double *mins = adnn->get_mins();
+           ^
+main.cpp:205:11: warning: unused variable ‘maxes’ [-Wunused-variable]
+   double *maxes = adnn->get_maxes();
+           ^
+main.cpp: At global scope:
+main.cpp:615:5: error: expected declaration before ‘}’ token
+     }
+     ^
+make: *** [adversarialBOXSym.elf] Error 1

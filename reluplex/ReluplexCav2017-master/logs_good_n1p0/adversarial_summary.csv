@@ -1,0 +1,18 @@
+./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.10001_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, SAT, 48489, 00:00:48
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.10001_runnerUp_1, Type: AITOPO, AItime 00:00:00,, SAT, 55381, 00:00:55
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.10001_runnerUp_1, Type: AIOFF, AItime 00:00:00,, SAT, 40455, 00:00:40
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.07501_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, SAT, 36121, 00:00:36
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.07501_runnerUp_1, Type: AITOPO, AItime 00:00:00,, SAT, 221788, 00:03:41
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.07501_runnerUp_1, Type: AIOFF, AItime 00:00:00,, SAT, 120612, 00:02:00
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.05001_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, SAT, 14503, 00:00:14
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.05001_runnerUp_1, Type: AITOPO, AItime 00:00:00,, SAT, 10633, 00:00:10
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.05001_runnerUp_1, Type: AIOFF, AItime 00:00:00,, SAT, 15161, 00:00:15
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.02501_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, UNSAT, 84109, 00:01:24
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.02501_runnerUp_1, Type: AITOPO, AItime 00:00:00,, UNSAT, 22888, 00:00:22
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.02501_runnerUp_1, Type: AIOFF, AItime 00:00:00,, UNSAT, 141368, 00:02:21
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.01001_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, UNSAT, 9208, 00:00:09
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.01001_runnerUp_1, Type: AITOPO, AItime 00:00:00,, UNSAT, 16954, 00:00:16
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.01001_runnerUp_1, Type: AIOFF, AItime 00:00:00,, UNSAT, 24516, 00:00:24
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_1_Delta_0.10001_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, UNSAT, 27481, 00:00:27
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_1_Delta_0.10001_runnerUp_1, Type: AITOPO, AItime 00:00:00,, UNSAT, 75345, 00:01:15
+ 

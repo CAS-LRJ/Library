@@ -1,0 +1,17 @@
+./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.10000_runnerUp_1, Type: AIOFF, AItime 00:00:00,, SAT, 172741, 00:02:52
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.10001_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, SAT, 55393, 00:00:55
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.10000_runnerUp_1, Type: AIOFF, AItime 00:00:00,, SAT, 159595, 00:02:39
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.10001_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, SAT, 58364, 00:00:58
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.07500_runnerUp_1, Type: AIOFF, AItime 00:00:00,, SAT, 296024, 00:04:56
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.07500_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, SAT, 44223, 00:00:44
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.05000_runnerUp_1, Type: AIOFF, AItime 00:00:00,, SAT, 30714, 00:00:30
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.05001_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, SAT, 21789, 00:00:21
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.02500_runnerUp_1, Type: AIOFF, AItime 00:00:00,, UNSAT, 176427, 00:02:56
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.02501_runnerUp_1, Type: AIBOXSym, AItime 00:00:01,, UNSAT, 43107, 00:00:43
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.01000_runnerUp_1, Type: AIOFF, AItime 00:00:00,, UNSAT, 33388, 00:00:33
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_0_Delta_0.01001_runnerUp_1, Type: AIBOXSym, AItime 00:00:01,, UNSAT, 8482, 00:00:08
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.10000_runnerUp_1, Type: AIOFF, AItime 00:00:00,, SAT, 2688, 00:00:02
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.10001_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, SAT, 3112, 00:00:03
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.07500_runnerUp_1, Type: AIOFF, AItime 00:00:00,, SAT, 1262107, 00:21:02
+ ./nnet/ACASXU_run2a_1_1_batch_2000.nnet_Point_3_Delta_0.07500_runnerUp_1, Type: AIBOXSym, AItime 00:00:00,, SAT, 9554, 00:00:09
+ 
